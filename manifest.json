@@ -19,10 +19,5 @@
 		  "persistent": false
 		},
 	"permissions": [
-		"webNavigation",
-		"activeTab",
-		"tabs",
-		"http://*/",
-		"https://*/"
 	  ]
 }
